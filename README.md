@@ -12,4 +12,4 @@ python test.py --typ <acc,don> --test_file <path to test seq file> --data <hs,at
 
 for example : testing on donor sites for homo sapiens
 
-python test.py --typ don --test_file ..data/test_hs_don_seq.txt --data hs
+python test.py --typ don --test_file ../data/test_hs_don_seq.txt --data hs
